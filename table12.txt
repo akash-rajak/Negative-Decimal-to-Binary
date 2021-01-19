@@ -1,0 +1,302 @@
+Binary form of negative Decimal number.
+Two decimal no. one positive anf one negative equivalent to one binary digit.
+For n = -1
+   Binary form of 1 = 1 
+   Binary form of -1 =    Binary form of 3 = 1 1 
+For n = -2
+   Binary form of 2 = 1 0 
+   Binary form of -2 =    Binary form of 6 = 1 1 0 
+For n = -3
+   Binary form of 3 = 1 1 
+   Binary form of -3 =    Binary form of 5 = 1 0 1 
+For n = -4
+   Binary form of 4 = 1 0 0 
+   Binary form of -4 =    Binary form of 12 = 1 1 0 0 
+For n = -5
+   Binary form of 5 = 1 0 1 
+   Binary form of -5 =    Binary form of 11 = 1 0 1 1 
+For n = -6
+   Binary form of 6 = 1 1 0 
+   Binary form of -6 =    Binary form of 10 = 1 0 1 0 
+For n = -7
+   Binary form of 7 = 1 1 1 
+   Binary form of -7 =    Binary form of 9 = 1 0 0 1 
+For n = -8
+   Binary form of 8 = 1 0 0 0 
+   Binary form of -8 =    Binary form of 24 = 1 1 0 0 0 
+For n = -9
+   Binary form of 9 = 1 0 0 1 
+   Binary form of -9 =    Binary form of 23 = 1 0 1 1 1 
+For n = -10
+   Binary form of 10 = 1 0 1 0 
+   Binary form of -10 =    Binary form of 22 = 1 0 1 1 0 
+For n = -11
+   Binary form of 11 = 1 0 1 1 
+   Binary form of -11 =    Binary form of 21 = 1 0 1 0 1 
+For n = -12
+   Binary form of 12 = 1 1 0 0 
+   Binary form of -12 =    Binary form of 20 = 1 0 1 0 0 
+For n = -13
+   Binary form of 13 = 1 1 0 1 
+   Binary form of -13 =    Binary form of 19 = 1 0 0 1 1 
+For n = -14
+   Binary form of 14 = 1 1 1 0 
+   Binary form of -14 =    Binary form of 18 = 1 0 0 1 0 
+For n = -15
+   Binary form of 15 = 1 1 1 1 
+   Binary form of -15 =    Binary form of 17 = 1 0 0 0 1 
+For n = -16
+   Binary form of 16 = 1 0 0 0 0 
+   Binary form of -16 =    Binary form of 48 = 1 1 0 0 0 0 
+For n = -17
+   Binary form of 17 = 1 0 0 0 1 
+   Binary form of -17 =    Binary form of 47 = 1 0 1 1 1 1 
+For n = -18
+   Binary form of 18 = 1 0 0 1 0 
+   Binary form of -18 =    Binary form of 46 = 1 0 1 1 1 0 
+For n = -19
+   Binary form of 19 = 1 0 0 1 1 
+   Binary form of -19 =    Binary form of 45 = 1 0 1 1 0 1 
+For n = -20
+   Binary form of 20 = 1 0 1 0 0 
+   Binary form of -20 =    Binary form of 44 = 1 0 1 1 0 0 
+For n = -21
+   Binary form of 21 = 1 0 1 0 1 
+   Binary form of -21 =    Binary form of 43 = 1 0 1 0 1 1 
+For n = -22
+   Binary form of 22 = 1 0 1 1 0 
+   Binary form of -22 =    Binary form of 42 = 1 0 1 0 1 0 
+For n = -23
+   Binary form of 23 = 1 0 1 1 1 
+   Binary form of -23 =    Binary form of 41 = 1 0 1 0 0 1 
+For n = -24
+   Binary form of 24 = 1 1 0 0 0 
+   Binary form of -24 =    Binary form of 40 = 1 0 1 0 0 0 
+For n = -25
+   Binary form of 25 = 1 1 0 0 1 
+   Binary form of -25 =    Binary form of 39 = 1 0 0 1 1 1 
+For n = -26
+   Binary form of 26 = 1 1 0 1 0 
+   Binary form of -26 =    Binary form of 38 = 1 0 0 1 1 0 
+For n = -27
+   Binary form of 27 = 1 1 0 1 1 
+   Binary form of -27 =    Binary form of 37 = 1 0 0 1 0 1 
+For n = -28
+   Binary form of 28 = 1 1 1 0 0 
+   Binary form of -28 =    Binary form of 36 = 1 0 0 1 0 0 
+For n = -29
+   Binary form of 29 = 1 1 1 0 1 
+   Binary form of -29 =    Binary form of 35 = 1 0 0 0 1 1 
+For n = -30
+   Binary form of 30 = 1 1 1 1 0 
+   Binary form of -30 =    Binary form of 34 = 1 0 0 0 1 0 
+For n = -31
+   Binary form of 31 = 1 1 1 1 1 
+   Binary form of -31 =    Binary form of 33 = 1 0 0 0 0 1 
+For n = -32
+   Binary form of 32 = 1 0 0 0 0 0 
+   Binary form of -32 =    Binary form of 96 = 1 1 0 0 0 0 0 
+For n = -33
+   Binary form of 33 = 1 0 0 0 0 1 
+   Binary form of -33 =    Binary form of 95 = 1 0 1 1 1 1 1 
+For n = -34
+   Binary form of 34 = 1 0 0 0 1 0 
+   Binary form of -34 =    Binary form of 94 = 1 0 1 1 1 1 0 
+For n = -35
+   Binary form of 35 = 1 0 0 0 1 1 
+   Binary form of -35 =    Binary form of 93 = 1 0 1 1 1 0 1 
+For n = -36
+   Binary form of 36 = 1 0 0 1 0 0 
+   Binary form of -36 =    Binary form of 92 = 1 0 1 1 1 0 0 
+For n = -37
+   Binary form of 37 = 1 0 0 1 0 1 
+   Binary form of -37 =    Binary form of 91 = 1 0 1 1 0 1 1 
+For n = -38
+   Binary form of 38 = 1 0 0 1 1 0 
+   Binary form of -38 =    Binary form of 90 = 1 0 1 1 0 1 0 
+For n = -39
+   Binary form of 39 = 1 0 0 1 1 1 
+   Binary form of -39 =    Binary form of 89 = 1 0 1 1 0 0 1 
+For n = -40
+   Binary form of 40 = 1 0 1 0 0 0 
+   Binary form of -40 =    Binary form of 88 = 1 0 1 1 0 0 0 
+For n = -41
+   Binary form of 41 = 1 0 1 0 0 1 
+   Binary form of -41 =    Binary form of 87 = 1 0 1 0 1 1 1 
+For n = -42
+   Binary form of 42 = 1 0 1 0 1 0 
+   Binary form of -42 =    Binary form of 86 = 1 0 1 0 1 1 0 
+For n = -43
+   Binary form of 43 = 1 0 1 0 1 1 
+   Binary form of -43 =    Binary form of 85 = 1 0 1 0 1 0 1 
+For n = -44
+   Binary form of 44 = 1 0 1 1 0 0 
+   Binary form of -44 =    Binary form of 84 = 1 0 1 0 1 0 0 
+For n = -45
+   Binary form of 45 = 1 0 1 1 0 1 
+   Binary form of -45 =    Binary form of 83 = 1 0 1 0 0 1 1 
+For n = -46
+   Binary form of 46 = 1 0 1 1 1 0 
+   Binary form of -46 =    Binary form of 82 = 1 0 1 0 0 1 0 
+For n = -47
+   Binary form of 47 = 1 0 1 1 1 1 
+   Binary form of -47 =    Binary form of 81 = 1 0 1 0 0 0 1 
+For n = -48
+   Binary form of 48 = 1 1 0 0 0 0 
+   Binary form of -48 =    Binary form of 80 = 1 0 1 0 0 0 0 
+For n = -49
+   Binary form of 49 = 1 1 0 0 0 1 
+   Binary form of -49 =    Binary form of 79 = 1 0 0 1 1 1 1 
+For n = -50
+   Binary form of 50 = 1 1 0 0 1 0 
+   Binary form of -50 =    Binary form of 78 = 1 0 0 1 1 1 0 
+For n = -51
+   Binary form of 51 = 1 1 0 0 1 1 
+   Binary form of -51 =    Binary form of 77 = 1 0 0 1 1 0 1 
+For n = -52
+   Binary form of 52 = 1 1 0 1 0 0 
+   Binary form of -52 =    Binary form of 76 = 1 0 0 1 1 0 0 
+For n = -53
+   Binary form of 53 = 1 1 0 1 0 1 
+   Binary form of -53 =    Binary form of 75 = 1 0 0 1 0 1 1 
+For n = -54
+   Binary form of 54 = 1 1 0 1 1 0 
+   Binary form of -54 =    Binary form of 74 = 1 0 0 1 0 1 0 
+For n = -55
+   Binary form of 55 = 1 1 0 1 1 1 
+   Binary form of -55 =    Binary form of 73 = 1 0 0 1 0 0 1 
+For n = -56
+   Binary form of 56 = 1 1 1 0 0 0 
+   Binary form of -56 =    Binary form of 72 = 1 0 0 1 0 0 0 
+For n = -57
+   Binary form of 57 = 1 1 1 0 0 1 
+   Binary form of -57 =    Binary form of 71 = 1 0 0 0 1 1 1 
+For n = -58
+   Binary form of 58 = 1 1 1 0 1 0 
+   Binary form of -58 =    Binary form of 70 = 1 0 0 0 1 1 0 
+For n = -59
+   Binary form of 59 = 1 1 1 0 1 1 
+   Binary form of -59 =    Binary form of 69 = 1 0 0 0 1 0 1 
+For n = -60
+   Binary form of 60 = 1 1 1 1 0 0 
+   Binary form of -60 =    Binary form of 68 = 1 0 0 0 1 0 0 
+For n = -61
+   Binary form of 61 = 1 1 1 1 0 1 
+   Binary form of -61 =    Binary form of 67 = 1 0 0 0 0 1 1 
+For n = -62
+   Binary form of 62 = 1 1 1 1 1 0 
+   Binary form of -62 =    Binary form of 66 = 1 0 0 0 0 1 0 
+For n = -63
+   Binary form of 63 = 1 1 1 1 1 1 
+   Binary form of -63 =    Binary form of 65 = 1 0 0 0 0 0 1 
+For n = -64
+   Binary form of 64 = 1 0 0 0 0 0 0 
+   Binary form of -64 =    Binary form of 192 = 1 1 0 0 0 0 0 0 
+For n = -65
+   Binary form of 65 = 1 0 0 0 0 0 1 
+   Binary form of -65 =    Binary form of 191 = 1 0 1 1 1 1 1 1 
+For n = -66
+   Binary form of 66 = 1 0 0 0 0 1 0 
+   Binary form of -66 =    Binary form of 190 = 1 0 1 1 1 1 1 0 
+For n = -67
+   Binary form of 67 = 1 0 0 0 0 1 1 
+   Binary form of -67 =    Binary form of 189 = 1 0 1 1 1 1 0 1 
+For n = -68
+   Binary form of 68 = 1 0 0 0 1 0 0 
+   Binary form of -68 =    Binary form of 188 = 1 0 1 1 1 1 0 0 
+For n = -69
+   Binary form of 69 = 1 0 0 0 1 0 1 
+   Binary form of -69 =    Binary form of 187 = 1 0 1 1 1 0 1 1 
+For n = -70
+   Binary form of 70 = 1 0 0 0 1 1 0 
+   Binary form of -70 =    Binary form of 186 = 1 0 1 1 1 0 1 0 
+For n = -71
+   Binary form of 71 = 1 0 0 0 1 1 1 
+   Binary form of -71 =    Binary form of 185 = 1 0 1 1 1 0 0 1 
+For n = -72
+   Binary form of 72 = 1 0 0 1 0 0 0 
+   Binary form of -72 =    Binary form of 184 = 1 0 1 1 1 0 0 0 
+For n = -73
+   Binary form of 73 = 1 0 0 1 0 0 1 
+   Binary form of -73 =    Binary form of 183 = 1 0 1 1 0 1 1 1 
+For n = -74
+   Binary form of 74 = 1 0 0 1 0 1 0 
+   Binary form of -74 =    Binary form of 182 = 1 0 1 1 0 1 1 0 
+For n = 75
+   Binary form of -75 = -1 0 0 -1 0 -1 -1 
+   Binary form of 75 =    Binary form of 331 = 1 0 1 0 0 1 0 1 1 
+For n = -76
+   Binary form of 76 = 1 0 0 1 1 0 0 
+   Binary form of -76 =    Binary form of 180 = 1 0 1 1 0 1 0 0 
+For n = -77
+   Binary form of 77 = 1 0 0 1 1 0 1 
+   Binary form of -77 =    Binary form of 179 = 1 0 1 1 0 0 1 1 
+For n = -78
+   Binary form of 78 = 1 0 0 1 1 1 0 
+   Binary form of -78 =    Binary form of 178 = 1 0 1 1 0 0 1 0 
+For n = -79
+   Binary form of 79 = 1 0 0 1 1 1 1 
+   Binary form of -79 =    Binary form of 177 = 1 0 1 1 0 0 0 1 
+For n = -80
+   Binary form of 80 = 1 0 1 0 0 0 0 
+   Binary form of -80 =    Binary form of 176 = 1 0 1 1 0 0 0 0 
+For n = -81
+   Binary form of 81 = 1 0 1 0 0 0 1 
+   Binary form of -81 =    Binary form of 175 = 1 0 1 0 1 1 1 1 
+For n = -82
+   Binary form of 82 = 1 0 1 0 0 1 0 
+   Binary form of -82 =    Binary form of 174 = 1 0 1 0 1 1 1 0 
+For n = -83
+   Binary form of 83 = 1 0 1 0 0 1 1 
+   Binary form of -83 =    Binary form of 173 = 1 0 1 0 1 1 0 1 
+For n = -84
+   Binary form of 84 = 1 0 1 0 1 0 0 
+   Binary form of -84 =    Binary form of 172 = 1 0 1 0 1 1 0 0 
+For n = -85
+   Binary form of 85 = 1 0 1 0 1 0 1 
+   Binary form of -85 =    Binary form of 171 = 1 0 1 0 1 0 1 1 
+For n = -86
+   Binary form of 86 = 1 0 1 0 1 1 0 
+   Binary form of -86 =    Binary form of 170 = 1 0 1 0 1 0 1 0 
+For n = -87
+   Binary form of 87 = 1 0 1 0 1 1 1 
+   Binary form of -87 =    Binary form of 169 = 1 0 1 0 1 0 0 1 
+For n = -88
+   Binary form of 88 = 1 0 1 1 0 0 0 
+   Binary form of -88 =    Binary form of 168 = 1 0 1 0 1 0 0 0 
+For n = -89
+   Binary form of 89 = 1 0 1 1 0 0 1 
+   Binary form of -89 =    Binary form of 167 = 1 0 1 0 0 1 1 1 
+For n = -90
+   Binary form of 90 = 1 0 1 1 0 1 0 
+   Binary form of -90 =    Binary form of 166 = 1 0 1 0 0 1 1 0 
+For n = -91
+   Binary form of 91 = 1 0 1 1 0 1 1 
+   Binary form of -91 =    Binary form of 165 = 1 0 1 0 0 1 0 1 
+For n = -92
+   Binary form of 92 = 1 0 1 1 1 0 0 
+   Binary form of -92 =    Binary form of 164 = 1 0 1 0 0 1 0 0 
+For n = -93
+   Binary form of 93 = 1 0 1 1 1 0 1 
+   Binary form of -93 =    Binary form of 163 = 1 0 1 0 0 0 1 1 
+For n = -94
+   Binary form of 94 = 1 0 1 1 1 1 0 
+   Binary form of -94 =    Binary form of 162 = 1 0 1 0 0 0 1 0 
+For n = -95
+   Binary form of 95 = 1 0 1 1 1 1 1 
+   Binary form of -95 =    Binary form of 161 = 1 0 1 0 0 0 0 1 
+For n = -96
+   Binary form of 96 = 1 1 0 0 0 0 0 
+   Binary form of -96 =    Binary form of 160 = 1 0 1 0 0 0 0 0 
+For n = -97
+   Binary form of 97 = 1 1 0 0 0 0 1 
+   Binary form of -97 =    Binary form of 159 = 1 0 0 1 1 1 1 1 
+For n = -98
+   Binary form of 98 = 1 1 0 0 0 1 0 
+   Binary form of -98 =    Binary form of 158 = 1 0 0 1 1 1 1 0 
+For n = -99
+   Binary form of 99 = 1 1 0 0 0 1 1 
+   Binary form of -99 =    Binary form of 157 = 1 0 0 1 1 1 0 1 
+For n = -100
+   Binary form of 100 = 1 1 0 0 1 0 0 
+   Binary form of -100 =    Binary form of 156 = 1 0 0 1 1 1 0 0 
