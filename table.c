@@ -1,8 +1,8 @@
-//program to find binary form of negative decimal no. from -1 to 100
+//Basic own program to find binary form of negative decimal no. from -1 to 100
 // Given n, the formula to find the no of digits in which it can be represented in binary form is floor(log2) + 1;
 
 /*
-	input format be like :
+	Terminal input format be like :
 	n		num
 	-1		1
 	-2 		2
@@ -23,7 +23,7 @@ int comp21(int n,int num);
 int main()
 {
 	fp1=fopen("table1.txt","a");
-	fprintf(fp1,"%s","Binary form of negative Decimal number.\nTwo decimal no. one positive anf one negative equivalent to one binary digit.\n");
+	fprintf(fp1,"%s","Output of Program looks like this.\nBinary form of negative Decimal number.\nTwo decimal no. one positive anf one negative equivalent to one binary digit.\n");
 	//This line is run only for the first run
 	int base1=10,base2=2,n,num;
 	printf("Enter the no. : \n");
